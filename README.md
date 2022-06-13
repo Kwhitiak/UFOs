@@ -11,15 +11,15 @@ We have been tasked with helping one of out friend's, Dana, with building a webp
 
 Upon entering, the visitor's "first encounter" will be met with the below homepage.  This page includes a brief intoduction along with a filter search results section and the data in table form.
 
-![Webpage]("/UFOs/static/images/Webpage.png")
+![Webpage](/UFOs/static/images/Webpage.png)
 
 ### filtering 
 
 We are able to filer through this data using the below filter search section.  This will allow us to view very specific data if necessary.
 #
-![Filter_search]("/UFOs/static/images/Filer_search.png")
+![Filter_search](/UFOs/static/images/Filer_search.png)
 
-![filtered_results_CA_Triangle](/UFOs/static/images/filtered_results_CA_Triangle.png")
+![filtered_results_CA_Triangle](/UFOs/static/images/filtered_results_CA_Triangle.png)
 
 ### Some things to note:
 

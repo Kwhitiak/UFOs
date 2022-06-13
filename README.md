@@ -17,7 +17,7 @@ Upon entering, the visitor's "first encounter" will be met with the below homepa
 
 We are able to filer through this data using the below filter search section.  This will allow us to view very specific data if necessary.
 #
-![Filter_search](/images/Filer_search.png)
+![Filter_search](https://github.com/Kwhitiak/UFOs/blob/main/static/images/Filer_search.png)
 
 ![filtered_results_CA_Triangle](/images/filtered_results_CA_Triangle.png)
 
